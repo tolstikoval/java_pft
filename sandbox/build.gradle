@@ -1,3 +1,12 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = "MyFirstProgr"
+mainClassName = "ru.stqa.pft.sandbox.MyFirstProgram"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.testng:testng:7.3.0'
+    testImplementation 'io.rest-assured:rest-assured:4.3.3'
+}
