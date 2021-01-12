@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.pft.sandbox.SqTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-11T15:44:57" hostname="LAPTOP-4NO6NHSS" time="0.033">
+  <properties/>
+  <testcase name="testArea" classname="ru.stqa.pft.sandbox.SqTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

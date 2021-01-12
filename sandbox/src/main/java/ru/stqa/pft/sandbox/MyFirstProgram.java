@@ -1,6 +1,5 @@
 package ru.stqa.pft.sandbox;
 
-import java.sql.SQLOutput;
 
 public class MyFirstProgram {
 
